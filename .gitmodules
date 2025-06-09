@@ -2,3 +2,6 @@
     path = pybind11
     url = https://github.com/pybind/pybind11.git
     branch = master
+[submodule "3rdparty/geogram"]
+	path = 3rdparty/geogram
+	url = https://github.com/BrunoLevy/geogram.git
